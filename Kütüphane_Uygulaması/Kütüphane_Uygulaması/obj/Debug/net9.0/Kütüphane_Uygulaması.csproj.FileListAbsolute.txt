@@ -1,0 +1,14 @@
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\bin\Debug\net9.0\Kütüphane_Uygulaması.exe
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\bin\Debug\net9.0\Kütüphane_Uygulaması.deps.json
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\bin\Debug\net9.0\Kütüphane_Uygulaması.runtimeconfig.json
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\bin\Debug\net9.0\Kütüphane_Uygulaması.dll
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\bin\Debug\net9.0\Kütüphane_Uygulaması.pdb
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\obj\Debug\net9.0\Kütüphane_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\obj\Debug\net9.0\Kütüphane_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\obj\Debug\net9.0\Kütüphane_Uygulaması.AssemblyInfo.cs
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\obj\Debug\net9.0\Kütüphane_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\obj\Debug\net9.0\Kütüphane_Uygulaması.dll
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\obj\Debug\net9.0\refint\Kütüphane_Uygulaması.dll
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\obj\Debug\net9.0\Kütüphane_Uygulaması.pdb
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\obj\Debug\net9.0\Kütüphane_Uygulaması.genruntimeconfig.cache
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Kütüphane_Uygulaması\Kütüphane_Uygulaması\obj\Debug\net9.0\ref\Kütüphane_Uygulaması.dll
